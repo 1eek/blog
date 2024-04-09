@@ -47,6 +47,18 @@ export default defineConfig({
     // },
     nav: [
       { text: '首页', link: '/' },
+      {
+        text: '后端',
+        items: [
+          { text: '设计模式', link: '/back/design/' },
+          { text: 'java', link: '/offer/campus/' },
+          { text: '框架', link: '/offer/sum-interview/' },
+          { text: '技巧', link: '/offer/review/' }
+        ]
+      },
+      {text: '面试',link: '/offer'},
+      {text: '计算机基础',link: '/base'},
+      {text: '后端',link: '/study'},
       
     ],
     socialLinks: [
