@@ -1,6 +1,8 @@
 ---
 publish : false
 ---
+<!-- markdownlint-disable-file -->
+
 # 设计模式
 
 
