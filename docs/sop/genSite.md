@@ -1,4 +1,4 @@
 ---
-published: false
+publish : false
 ---
 # 建站

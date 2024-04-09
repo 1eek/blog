@@ -51,9 +51,9 @@ export default defineConfig({
         text: '后端',
         items: [
           { text: '设计模式', link: '/back/design/' },
-          { text: 'java', link: '/offer/campus/' },
-          { text: '框架', link: '/offer/sum-interview/' },
-          { text: '技巧', link: '/offer/review/' }
+          { text: 'java', link: '/back/java/' },
+          { text: '框架', link: '/back/frame/' },
+          { text: '技巧', link: '/back/tip/' }
         ]
       },
       {text: '面试',link: '/offer'},
